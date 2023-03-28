@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TextForm/static/css/main.692e8514.css",
+    "main.js": "/TextForm/static/js/main.f6072071.js",
+    "static/js/787.ec78c698.chunk.js": "/TextForm/static/js/787.ec78c698.chunk.js",
+    "static/media/AnandaBlackPersonalUseRegular-rg9Rx.ttf": "/TextForm/static/media/AnandaBlackPersonalUseRegular-rg9Rx.eb04dce4c2b321e2ef0a.ttf",
+    "index.html": "/TextForm/index.html",
+    "main.692e8514.css.map": "/TextForm/static/css/main.692e8514.css.map",
+    "main.f6072071.js.map": "/TextForm/static/js/main.f6072071.js.map",
+    "787.ec78c698.chunk.js.map": "/TextForm/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692e8514.css",
+    "static/js/main.f6072071.js"
+  ]
+}
