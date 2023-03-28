@@ -1,0 +1,140 @@
+@font-face{
+    font-family: 'customfont';
+    src: url(./components/font/AnandaBlackPersonalUseRegular-rg9Rx.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    font-family: sans-serif;
+}
+.container1{
+    margin: auto;
+    width: 950px;
+    height: 550px;
+    /* background-color: antiquewhite; */
+    display: grid;
+    grid-template-rows: 220px 200px 200px;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20;
+    padding: 25px;
+}
+.container1 .one{
+    background-color:rgba(65,188,244,0.2);
+    height: 460px;
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    grid-row: 1/-1;
+}
+.container1 .one img{
+    height: 95px;
+    width: 95px;
+    border-radius: 50%;
+    margin: 15px;
+}
+.container1 .one .about{
+    height: auto;
+    width: 95%;
+}
+.container1 .one .about h3{
+    font-weight: 600;
+    margin: 15px;
+}
+.container1 .one .about p{
+    font-weight: 500;
+}
+.container1 .two{
+    background-color: rgba(247,17,32,0.1);
+    height: 200px;
+    margin: 15px;
+    border-radius: 20px;
+}
+.container1 .three{
+    height: 200px;
+    margin: 15px;
+    border-radius: 20px;
+    background-color: rgba(103,235,96,0.4);
+}
+.container1 .one img{
+    height: 120px;
+    width: 120px;
+}
+.one h3, .two h3, .three h3{
+    margin-top: 5px;
+    text-align: center;
+}
+p{
+    margin-left: 15px;
+}
+.my-side{
+    height: 450px;
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.my-side .my-group{
+    height: 100%;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.my-side .my-group div{
+    width: 170px;
+    height: 110px;
+    background-color: rgba(45,194,161,0.9);
+    margin: 15px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.form{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.form .button{
+    width: 85%;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: aqua; */
+}
+.form .button button{
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.form .info{
+    height: 55px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form .info p{
+    margin: 15px;
+}
+.form .myclass{
+    font-size: 20px;
+}
