@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Textapp/static/css/main.2fe9f273.css",
-    "main.js": "/Textapp/static/js/main.d38d11ca.js",
+    "main.js": "/Textapp/static/js/main.70cf0fde.js",
     "static/js/787.ec78c698.chunk.js": "/Textapp/static/js/787.ec78c698.chunk.js",
     "static/media/AnandaBlackPersonalUseRegular-rg9Rx.ttf": "/Textapp/static/media/AnandaBlackPersonalUseRegular-rg9Rx.eb04dce4c2b321e2ef0a.ttf",
     "index.html": "/Textapp/index.html",
     "main.2fe9f273.css.map": "/Textapp/static/css/main.2fe9f273.css.map",
-    "main.d38d11ca.js.map": "/Textapp/static/js/main.d38d11ca.js.map",
+    "main.70cf0fde.js.map": "/Textapp/static/js/main.70cf0fde.js.map",
     "787.ec78c698.chunk.js.map": "/Textapp/static/js/787.ec78c698.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fe9f273.css",
-    "static/js/main.d38d11ca.js"
+    "static/js/main.70cf0fde.js"
   ]
 }
